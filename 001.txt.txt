@@ -16,5 +16,4 @@ hellomcxw
 hello,cxw
 hellomcxw
 hello,cxwMASTER
-hellomcxw
-v
+hellomcxw hot-fix test
